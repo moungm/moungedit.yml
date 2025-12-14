@@ -2,6 +2,21 @@
 
 **Welcome!** This guide will help you edit the shop items for our server. Don't worry if you're not tech-savvy - we'll walk through everything step by step.
 
+## Quick Reference (For Returning Users)
+
+**Already done this before? Here's the quick version:**
+
+1. Go to YOUR fork (YourUsername/QuickkShop)
+2. Click `shop.yml` → Edit (pencil icon)
+3. Make changes → Scroll down
+4. Write commit message → Commit changes
+5. Click "Contribute" → Open pull request → Create pull request
+6. Done! Wait for admin review
+
+**First time? Scroll down for the full guide!**
+
+---
+
 ## Table of Contents
 - [How to Edit on GitHub (Start Here!)](#how-to-edit-on-github-start-here)
 - [Understanding the Shop File](#understanding-the-shop-file)
@@ -16,30 +31,153 @@
 
 ## How to Edit on GitHub (Start Here!)
 
-If you're new to GitHub, follow these simple steps:
+**First time?** Don't worry! This guide will walk you through EVERYTHING, even if you've never used GitHub before.
 
-### Step 1: Find the File
-1. Go to the GitHub repository (the link your admin gave you)
-2. Click on the file called `shop.yml`
+### What You Need to Know First
 
-### Step 2: Edit the File
-1. Click the pencil icon (Edit button) in the top-right corner
-2. Make your changes to the file
-3. Be careful with spacing - don't delete spaces at the start of lines!
+When you suggest changes to the shop file:
+1. You'll make a copy of the file (called a "fork")
+2. You'll edit your copy
+3. You'll ask an admin to review your changes (called a "pull request")
+4. If approved, your changes go live!
 
-### Step 3: Save Your Changes
+This keeps the shop safe - nothing breaks unless an admin approves it first.
+
+---
+
+## Complete Step-by-Step Guide
+
+### Part 1: Create a GitHub Account (One-Time Setup)
+
+**Skip this if you already have a GitHub account!**
+
+1. Go to https://github.com
+2. Click the "Sign up" button (top right)
+3. Enter your email, create a password, and choose a username
+4. Verify your email address
+5. Done! You now have a GitHub account
+
+---
+
+### Part 2: Fork the Repository (Make Your Copy)
+
+**You only need to do this ONCE. After that, you can skip to Part 3.**
+
+1. Go to the shop repository (the link your admin gave you)
+2. **Make sure you're logged in** to GitHub (your username should show in the top right)
+3. Look for a button called **"Fork"** in the top-right area of the page
+4. Click the **Fork** button
+5. GitHub will ask you to confirm - click **"Create fork"**
+6. Wait a few seconds while GitHub copies everything
+7. Done! You now have your own copy of the shop file
+
+**How to know if it worked:** You should see your username in the top-left, like `YourUsername/QuickkShop` instead of the original repository name.
+
+---
+
+### Part 3: Edit Your Copy of shop.yml
+
+Now you'll make changes to YOUR copy:
+
+1. **Make sure you're in YOUR fork** (should say YourUsername/QuickkShop at the top)
+2. Click on the file called **`shop.yml`**
+3. Click the **pencil icon** (✏️) on the right side - it says "Edit this file" when you hover over it
+4. Make your changes!
+   - Change prices
+   - Add new items
+   - Update colors
+   - Whatever you need to do
+5. **Double-check your spacing** - this is super important!
+
+---
+
+### Part 4: Save Your Changes (Commit)
+
+After editing:
+
 1. Scroll down to the bottom of the page
-2. In the "Commit changes" box, type a short description like "Updated diamond prices" or "Added new farming items"
-3. Click the green "Commit changes" button
+2. You'll see a box that says **"Commit changes"**
+3. In the first text box, write a short description of what you changed
+   - Good examples: "Increased diamond prices", "Added copper ore to shop", "Fixed wheat seed price"
+   - Bad examples: "update", "changes", "idk"
+4. Leave the second box empty (you can add more details if you want, but it's optional)
+5. Make sure **"Commit directly to the main branch"** is selected
+6. Click the green **"Commit changes"** button
 
-### Step 4: Done!
-Your changes are saved! An admin will review and apply them to the server.
+Your changes are now saved to YOUR copy!
 
-### Important GitHub Tips
+---
+
+### Part 5: Submit a Pull Request (Ask Admin to Review)
+
+Now you need to ask an admin to add your changes to the real shop file:
+
+1. **Go to YOUR fork** (YourUsername/QuickkShop)
+2. You should see a yellow banner that says **"This branch is 1 commit ahead"** with a button
+3. Click the **"Contribute"** button (or "Pull request" button)
+4. Click the green **"Open pull request"** button
+5. You'll see a form:
+   - **Title:** Write what you changed (e.g., "Updated diamond and gold prices")
+   - **Description:** Explain WHY you made the changes (optional but helpful!)
+   - Example description: "Diamonds were too cheap, raised the price. Gold was too expensive for new players, lowered it."
+6. Click the green **"Create pull request"** button
+7. **Done!**
+
+An admin will now review your changes. You'll get a notification when they approve it or if they have questions.
+
+---
+
+### Part 6: Making More Changes Later
+
+After your first pull request, if you want to make MORE changes:
+
+**Option A: If your last pull request is still waiting for review**
+1. Go to YOUR fork
+2. Edit the `shop.yml` file again (pencil icon)
+3. Make your new changes
+4. Commit them
+5. They'll automatically be added to your existing pull request!
+
+**Option B: If your last pull request was already approved**
+1. Go to YOUR fork
+2. You might need to sync it first - look for a button that says **"Sync fork"** and click it
+3. Then follow Parts 3-5 again (Edit → Commit → Pull Request)
+
+---
+
+## Visual Checklist for Pull Requests
+
+Before clicking "Create pull request", make sure:
+- ✅ You described what you changed
+- ✅ You checked your spacing/indentation
+- ✅ You didn't accidentally delete anything important
+- ✅ Your material names are spelled correctly
+- ✅ Your prices make sense (no negative numbers unless intentional)
+
+---
+
+## Important GitHub Tips
+
+### Spacing is CRITICAL
 - Each line's spacing matters - don't add or remove spaces at the start of lines
-- If you make a mistake, don't panic! Admins can undo changes
-- Always describe what you changed in the commit message
-- Preview your changes before saving if possible
+- Copy an existing item's spacing if you're unsure
+
+### Don't Panic!
+- If you make a mistake, admins can reject your pull request
+- Nothing breaks until an admin approves your changes
+- You can always close a pull request and start over
+
+### Be Descriptive
+- Good commit message: "Increased iron price from 500 to 750"
+- Bad commit message: "changes"
+
+### Ask Questions
+- Not sure about something? Ask an admin BEFORE submitting
+- Leave a comment on your pull request if you need clarification
+
+### Stay Synced
+- If someone else's changes get approved before yours, you might need to sync your fork
+- Look for the "Sync fork" button and click it to get the latest version
 
 ---
 
@@ -301,17 +439,82 @@ Copy this and fill in the blanks:
 
 ---
 
+## Common GitHub Problems & Solutions
+
+### Problem: "I don't see a Fork button"
+**Solution:** Make sure you're logged in to GitHub. Your username should appear in the top-right corner.
+
+### Problem: "I can't find the pencil icon to edit"
+**Solution:** Make sure you're in YOUR fork (it should say YourUsername/QuickkShop at the top). If you're looking at the original repository, you won't be able to edit.
+
+### Problem: "My pull request says there are conflicts"
+**Solution:** This means someone else changed the same part of the file. Click "Sync fork" on your fork's main page, then try making your changes again.
+
+### Problem: "I committed my changes but don't see the 'Contribute' button"
+**Solution:**
+1. Go to the main page of YOUR fork (click "QuickkShop" at the top)
+2. Look for "This branch is X commits ahead" with buttons
+3. If you still don't see it, try clicking "Pull requests" at the top, then "New pull request"
+
+### Problem: "I made a mistake in my pull request"
+**Solution:**
+- **Before it's approved:** Just edit the file again in your fork and commit. The changes will automatically update your pull request!
+- **After it's approved:** Too late! But don't worry, you can submit a new pull request to fix it.
+
+### Problem: "GitHub says my YAML has errors"
+**Solution:**
+- Check your spacing - every line should line up with similar lines
+- Make sure you have quotes around item names: `"Diamond"` not `Diamond`
+- Look for the line number in the error message and check that line
+
+### Problem: "I accidentally deleted something important"
+**Solution:**
+1. Close your pull request (click "Close pull request" at the bottom)
+2. Delete your fork (Settings → scroll to bottom → Delete this repository)
+3. Start over by forking again
+4. Or ask an admin for help!
+
+---
+
 ## Need Help?
 
-If you encounter issues:
-1. Check console for error messages
-2. Verify your YAML syntax at: https://www.yamllint.com/
-3. Make sure all material names are valid
-4. Ensure proper indentation (2 spaces per level)
-5. Contact the server administrator
+**Before asking for help, try these:**
+1. Read the error message - it often tells you what's wrong and which line number
+2. Check your spacing - make sure it matches other items exactly
+3. Make sure you're editing YOUR fork, not the original repository
+4. Double-check material names on the Minecraft wiki
+5. Look at the "Common GitHub Problems" section above
+
+**Still stuck?** Contact an admin and tell them:
+- What step you're on (creating account, forking, editing, pull request, etc.)
+- What you were trying to do
+- What error you got (copy the exact message if there is one)
+- Send a screenshot if possible!
+
+**For YAML/config errors:**
+- Check console for error messages
+- Verify your YAML syntax at: https://www.yamllint.com/
+- Make sure all material names are valid
+- Ensure proper indentation (2 spaces per level)
+
+---
+
+## Tips for Success
+
+1. **Start small** - Change one price first to learn how it works
+2. **Copy existing items** - It's easier than writing from scratch
+3. **Read all 6 parts** of the guide before starting
+4. **Don't rush** - Take your time with each step
+5. **Check the Quick Reference** at the top once you've done it once
+6. **Ask questions early** - Better to ask than to submit a broken pull request!
+
+---
+
+**Good luck editing the shop! You've got this!**
+
+*P.S. - GitHub might seem scary at first, but after you do it once or twice, it becomes really easy. Promise!*
 
 ---
 
 **Last Updated**: 2025
 **Plugin**: QuickkShop
-****
