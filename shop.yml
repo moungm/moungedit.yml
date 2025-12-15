@@ -10,8 +10,8 @@ categories:
         material: "IRON_INGOT"
         name: "&fIron Ingot"
         lore: []
-        buy-price: 500.0
-        sell-price: 8.0
+        buy-price: 150.0
+        sell-price: 25.0
         slot: 10
         amount: 64
 
@@ -20,8 +20,8 @@ categories:
         material: "GOLD_INGOT"
         name: "&6Gold Ingot"
         lore: []
-        buy-price: 800.0
-        sell-price: 12.0
+        buy-price: 250.0
+        sell-price: 40.0
         slot: 11
         amount: 64
 
@@ -30,8 +30,8 @@ categories:
         material: "DIAMOND"
         name: "&bDiamond"
         lore: []
-        buy-price: 2000.0
-        sell-price: 15.0
+        buy-price: 600.0
+        sell-price: 75.0
         slot: 12
         amount: 64
 
@@ -40,8 +40,8 @@ categories:
         material: "EMERALD"
         name: "&aEmerald"
         lore: []
-        buy-price: 1800.0
-        sell-price: 16.0
+        buy-price: 550.0
+        sell-price: 70.0
         slot: 13
         amount: 64
 
@@ -50,8 +50,8 @@ categories:
         material: "NETHERITE_SCRAP"
         name: "&5Netherite Scrap"
         lore: []
-        buy-price: 5000.0
-        sell-price: 60.0
+        buy-price: 1500.0
+        sell-price: 250.0
         slot: 14
         amount: 64
       coal:
@@ -59,8 +59,8 @@ categories:
         material: "COAL"
         name: "&fCoal"
         lore: []
-        buy-price: 150.0
-        sell-price: 1.0
+        buy-price: 50.0
+        sell-price: 6.0
         slot: 15
         amount: 64
 
@@ -69,8 +69,8 @@ categories:
         material: "LAPIS_LAZULI"
         name: "&9Lapis Lazuli"
         lore: []
-        buy-price: 250.0
-        sell-price: 2.0
+        buy-price: 80.0
+        sell-price: 10.0
         slot: 16
         amount: 64
 
@@ -79,8 +79,8 @@ categories:
         material: "REDSTONE"
         name: "&cRedstone"
         lore: []
-        buy-price: 300.0
-        sell-price: 3.0
+        buy-price: 100.0
+        sell-price: 12.0
         slot: 19
         amount: 64
 
@@ -89,8 +89,8 @@ categories:
         material: "COPPER_INGOT"
         name: "&6Copper Ingot"
         lore: []
-        buy-price: 200.0
-        sell-price: 1.5
+        buy-price: 60.0
+        sell-price: 8.0
         slot: 20
         amount: 64
 
@@ -99,8 +99,8 @@ categories:
         material: "QUARTZ"
         name: "&fNether Quartz"
         lore: []
-        buy-price: 400.0
-        sell-price: 4.0
+        buy-price: 120.0
+        sell-price: 15.0
         slot: 21
         amount: 64
 
@@ -110,8 +110,8 @@ categories:
         material: "RAW_IRON"
         name: "&fRaw Iron"
         lore: []
-        buy-price: 450.0
-        sell-price: 7.0
+        buy-price: 130.0
+        sell-price: 22.0
         slot: 22
         amount: 64
 
@@ -120,8 +120,8 @@ categories:
         material: "RAW_GOLD"
         name: "&6Raw Gold"
         lore: []
-        buy-price: 750.0
-        sell-price: 11.0
+        buy-price: 220.0
+        sell-price: 35.0
         slot: 23
         amount: 64
 
@@ -130,8 +130,8 @@ categories:
         material: "RAW_COPPER"
         name: "&6Raw Copper"
         lore: []
-        buy-price: 180.0
-        sell-price: 1.3
+        buy-price: 50.0
+        sell-price: 7.0
         slot: 24
         amount: 64
 
@@ -140,8 +140,8 @@ categories:
         material: "ANCIENT_DEBRIS"
         name: "&5Ancient Debris"
         lore: []
-        buy-price: 6000.0
-        sell-price: 55.0
+        buy-price: 2000.0
+        sell-price: 280.0
         slot: 25
         amount: 16
 
@@ -150,8 +150,8 @@ categories:
         material: "AMETHYST_SHARD"
         name: "&dAmethyst Shard"
         lore: []
-        buy-price: 350.0
-        sell-price: 3.5
+        buy-price: 100.0
+        sell-price: 15.0
         slot: 28
         amount: 64
 
@@ -160,8 +160,8 @@ categories:
         material: "NETHERITE_INGOT"
         name: "&5Netherite Ingot"
         lore: []
-        buy-price: 25000.0
-        sell-price: 240.0
+        buy-price: 8000.0
+        sell-price: 1200.0
         slot: 29
         amount: 1
 
@@ -175,8 +175,8 @@ categories:
         material: "OAK_LOG"
         name: "&fOak Log"
         lore: []
-        buy-price: 400.0
-        sell-price: 5.0
+        buy-price: 80.0
+        sell-price: 12.0
         slot: 10
         amount: 64
 
@@ -185,8 +185,8 @@ categories:
         material: "SPRUCE_LOG"
         name: "&fSpruce Log"
         lore: []
-        buy-price: 250.0
-        sell-price: 2.0
+        buy-price: 60.0
+        sell-price: 10.0
         slot: 11
         amount: 64
 
@@ -195,8 +195,8 @@ categories:
         material: "BIRCH_LOG"
         name: "&fBirch Log"
         lore: []
-        buy-price: 250.0
-        sell-price: 2.0
+        buy-price: 60.0
+        sell-price: 10.0
         slot: 12
         amount: 64
 
@@ -205,8 +205,8 @@ categories:
         material: "JUNGLE_LOG"
         name: "&fJungle Log"
         lore: []
-        buy-price: 250.0
-        sell-price: 2.0
+        buy-price: 60.0
+        sell-price: 10.0
         slot: 13
         amount: 64
 
@@ -215,8 +215,8 @@ categories:
         material: "STONE"
         name: "&fStone"
         lore: []
-        buy-price: 100.0
-        sell-price: 0.5
+        buy-price: 25.0
+        sell-price: 4.0
         slot: 14
         amount: 64
 
@@ -225,8 +225,8 @@ categories:
         material: "COBBLESTONE"
         name: "&fCobblestone"
         lore: []
-        buy-price: 80.0
-        sell-price: 0.3
+        buy-price: 20.0
+        sell-price: 3.0
         slot: 15
         amount: 64
 
@@ -235,8 +235,8 @@ categories:
         material: "DIRT"
         name: "&fDirt"
         lore: []
-        buy-price: 50.0
-        sell-price: 0.1
+        buy-price: 10.0
+        sell-price: 2.0
         slot: 16
         amount: 64
 
@@ -245,8 +245,8 @@ categories:
         material: "GLASS"
         name: "&fGlass"
         lore: []
-        buy-price: 200.0
-        sell-price: 1.0
+        buy-price: 50.0
+        sell-price: 6.0
         slot: 19
         amount: 64
 
@@ -255,8 +255,8 @@ categories:
         material: "SANDSTONE"
         name: "&fSandstone"
         lore: []
-        buy-price: 150.0
-        sell-price: 0.8
+        buy-price: 35.0
+        sell-price: 5.0
         slot: 20
         amount: 64
 
@@ -265,8 +265,8 @@ categories:
         material: "QUARTZ_BLOCK"
         name: "&fQuartz Block"
         lore: []
-        buy-price: 500.0
-        sell-price: 3.0
+        buy-price: 140.0
+        sell-price: 18.0
         slot: 21
         amount: 64
 
@@ -275,8 +275,8 @@ categories:
         material: "OBSIDIAN"
         name: "&5Obsidian"
         lore: []
-        buy-price: 300.0
-        sell-price: 2.0
+        buy-price: 90.0
+        sell-price: 12.0
         slot: 22
         amount: 64
 
@@ -285,8 +285,8 @@ categories:
         material: "ACACIA_LOG"
         name: "&fAcacia Log"
         lore: []
-        buy-price: 250.0
-        sell-price: 2.0
+        buy-price: 60.0
+        sell-price: 10.0
         slot: 23
         amount: 64
 
@@ -295,8 +295,8 @@ categories:
         material: "DARK_OAK_LOG"
         name: "&fDark Oak Log"
         lore: []
-        buy-price: 250.0
-        sell-price: 2.0
+        buy-price: 60.0
+        sell-price: 10.0
         slot: 24
         amount: 64
 
@@ -305,18 +305,18 @@ categories:
         material: "MANGROVE_LOG"
         name: "&fMangrove Log"
         lore: []
-        buy-price: 250.0
-        sell-price: 2.0
+        buy-price: 60.0
+        sell-price: 10.0
         slot: 25
         amount: 64
 
       sand:
         type: "NORMAL"
         material: "SAND"
-        name: "&fsand"
+        name: "&fSand"
         lore: []
-        buy-price: 200.0
-        sell-price: 0.5
+        buy-price: 30.0
+        sell-price: 3.0
         slot: 28
         amount: 64
 
@@ -325,8 +325,8 @@ categories:
         material: "GRAVEL"
         name: "&fGravel"
         lore: []
-        buy-price: 200.0
-        sell-price: 1.0
+        buy-price: 30.0
+        sell-price: 3.0
         slot: 29
         amount: 64
 
@@ -335,8 +335,8 @@ categories:
         material: "BASALT"
         name: "&7Basalt"
         lore: []
-        buy-price: 200.0
-        sell-price: 0.5
+        buy-price: 35.0
+        sell-price: 3.5
         slot: 30
         amount: 64
 
@@ -345,8 +345,8 @@ categories:
         material: "NETHER_BRICKS"
         name: "&cNether Bricks"
         lore: []
-        buy-price: 200.0
-        sell-price: 1.0
+        buy-price: 50.0
+        sell-price: 5.0
         slot: 31
         amount: 64
 
@@ -355,8 +355,8 @@ categories:
         material: "PRISMARINE"
         name: "&bPrismarine"
         lore: []
-        buy-price: 350.0
-        sell-price: 2.5
+        buy-price: 80.0
+        sell-price: 8.0
         slot: 32
         amount: 64
 
@@ -365,8 +365,8 @@ categories:
         material: "END_STONE"
         name: "&eEnd Stone"
         lore: []
-        buy-price: 400.0
-        sell-price: 3.0
+        buy-price: 90.0
+        sell-price: 9.0
         slot: 33
         amount: 64
 
@@ -375,8 +375,8 @@ categories:
         material: "BLACKSTONE"
         name: "&8Blackstone"
         lore: []
-        buy-price: 250.0
-        sell-price: 1.8
+        buy-price: 40.0
+        sell-price: 4.0
         slot: 34
         amount: 64
 
@@ -385,8 +385,8 @@ categories:
         material: "DEEPSLATE"
         name: "&8Deepslate"
         lore: []
-        buy-price: 180.0
-        sell-price: 1.2
+        buy-price: 35.0
+        sell-price: 3.5
         slot: 37
         amount: 64
 
@@ -395,8 +395,8 @@ categories:
         material: "TERRACOTTA"
         name: "&6Terracotta"
         lore: []
-        buy-price: 150.0
-        sell-price: 1.0
+        buy-price: 40.0
+        sell-price: 4.0
         slot: 38
         amount: 64
 
@@ -405,8 +405,8 @@ categories:
         material: "BRICKS"
         name: "&cBricks"
         lore: []
-        buy-price: 180.0
-        sell-price: 1.2
+        buy-price: 50.0
+        sell-price: 5.0
         slot: 39
         amount: 64
 
@@ -415,8 +415,8 @@ categories:
         material: "NETHERRACK"
         name: "&4Netherrack"
         lore: []
-        buy-price: 80.0
-        sell-price: 0.5
+        buy-price: 20.0
+        sell-price: 2.5
         slot: 40
         amount: 64
 
@@ -425,8 +425,8 @@ categories:
         material: "ICE"
         name: "&bIce"
         lore: []
-        buy-price: 120.0
-        sell-price: 0.8
+        buy-price: 40.0
+        sell-price: 4.0
         slot: 41
         amount: 64
 
@@ -435,8 +435,8 @@ categories:
         material: "PACKED_ICE"
         name: "&bPacked Ice"
         lore: []
-        buy-price: 250.0
-        sell-price: 1.5
+        buy-price: 70.0
+        sell-price: 7.0
         slot: 42
         amount: 64
 
@@ -445,10 +445,162 @@ categories:
         material: "BLUE_ICE"
         name: "&9Blue Ice"
         lore: []
-        buy-price: 500.0
-        sell-price: 3.0
+        buy-price: 150.0
+        sell-price: 8.0
         slot: 43
         amount: 64
+
+      # Additional basic blocks
+      andesite:
+        type: "NORMAL"
+        material: "ANDESITE"
+        name: "&7Andesite"
+        lore: []
+        buy-price: 15.0
+        sell-price: 1.0
+        slot: 44
+        amount: 64
+
+      diorite:
+        type: "NORMAL"
+        material: "DIORITE"
+        name: "&fDiorite"
+        lore: []
+        buy-price: 15.0
+        sell-price: 1.0
+        slot: 45
+        amount: 64
+
+      granite:
+        type: "NORMAL"
+        material: "GRANITE"
+        name: "&6Granite"
+        lore: []
+        buy-price: 15.0
+        sell-price: 1.0
+        slot: 46
+        amount: 64
+
+      calcite:
+        type: "NORMAL"
+        material: "CALCITE"
+        name: "&fCalcite"
+        lore: []
+        buy-price: 25.0
+        sell-price: 2.0
+        slot: 47
+        amount: 64
+
+      tuff:
+        type: "NORMAL"
+        material: "TUFF"
+        name: "&7Tuff"
+        lore: []
+        buy-price: 25.0
+        sell-price: 2.0
+        slot: 48
+        amount: 64
+
+      dripstone_block:
+        type: "NORMAL"
+        material: "DRIPSTONE_BLOCK"
+        name: "&6Dripstone Block"
+        lore: []
+        buy-price: 80.0
+        sell-price: 5.0
+        slot: 49
+        amount: 64
+
+      moss_block:
+        type: "NORMAL"
+        material: "MOSS_BLOCK"
+        name: "&aMoss Block"
+        lore: []
+        buy-price: 50.0
+        sell-price: 4.0
+        slot: 50
+        amount: 64
+
+      smooth_stone:
+        type: "NORMAL"
+        material: "SMOOTH_STONE"
+        name: "&7Smooth Stone"
+        lore: []
+        buy-price: 20.0
+        sell-price: 1.5
+        slot: 51
+        amount: 64
+
+      crying_obsidian:
+        type: "NORMAL"
+        material: "CRYING_OBSIDIAN"
+        name: "&5Crying Obsidian"
+        lore: []
+        buy-price: 100.0
+        sell-price: 8.0
+        slot: 52
+        amount: 64
+
+      glowstone:
+        type: "NORMAL"
+        material: "GLOWSTONE"
+        name: "&eGlowstone"
+        lore: []
+        buy-price: 60.0
+        sell-price: 4.0
+        slot: 53
+        amount: 64
+
+      # Froglight variants
+      ochre_froglight:
+        type: "NORMAL"
+        material: "OCHRE_FROGLIGHT"
+        name: "&6Ochre Froglight"
+        lore: []
+        buy-price: 120.0
+        sell-price: 10.0
+        slot: 54
+        amount: 64
+
+      pearlescent_froglight:
+        type: "NORMAL"
+        material: "PEARLESCENT_FROGLIGHT"
+        name: "&dPearlescent Froglight"
+        lore: []
+        buy-price: 120.0
+        sell-price: 10.0
+        slot: 55
+        amount: 64
+
+      verdant_froglight:
+        type: "NORMAL"
+        material: "VERDANT_FROGLIGHT"
+        name: "&aVerdant Froglight"
+        lore: []
+        buy-price: 120.0
+        sell-price: 10.0
+        slot: 56
+        amount: 64
+
+      sponge:
+        type: "NORMAL"
+        material: "SPONGE"
+        name: "&eSponge"
+        lore: []
+        buy-price: 250.0
+        sell-price: 20.0
+        slot: 57
+        amount: 16
+
+      wet_sponge:
+        type: "NORMAL"
+        material: "WET_SPONGE"
+        name: "&eSponge (Wet)"
+        lore: []
+        buy-price: -1
+        sell-price: 15.0
+        slot: 58
+        amount: 16
 
   farming:
     name: "&a&lFarming"
@@ -460,8 +612,8 @@ categories:
         material: "WHEAT_SEEDS"
         name: "&eWheat Seeds"
         lore: []
-        buy-price: 20.0
-        sell-price: 0.05
+        buy-price: 5.0
+        sell-price: 0.5
         slot: 10
         amount: 64
 
@@ -470,8 +622,8 @@ categories:
         material: "WHEAT"
         name: "&eWheat"
         lore: []
-        buy-price: 50.0
-        sell-price: 0.3
+        buy-price: 15.0
+        sell-price: 2.0
         slot: 11
         amount: 64
 
@@ -480,8 +632,8 @@ categories:
         material: "BEETROOT_SEEDS"
         name: "&cBeetroot Seeds"
         lore: []
-        buy-price: 20.0
-        sell-price: 0.05
+        buy-price: 5.0
+        sell-price: 0.5
         slot: 12
         amount: 64
 
@@ -490,8 +642,8 @@ categories:
         material: "BEETROOT"
         name: "&cBeetroot"
         lore: []
-        buy-price: 40.0
-        sell-price: 0.2
+        buy-price: 10.0
+        sell-price: 1.5
         slot: 13
         amount: 64
 
@@ -500,8 +652,8 @@ categories:
         material: "CARROT"
         name: "&6Carrot"
         lore: []
-        buy-price: 30.0
-        sell-price: 0.1
+        buy-price: 8.0
+        sell-price: 1.0
         slot: 14
         amount: 64
 
@@ -510,8 +662,8 @@ categories:
         material: "POTATO"
         name: "&6Potato"
         lore: []
-        buy-price: 30.0
-        sell-price: 0.1
+        buy-price: 8.0
+        sell-price: 1.0
         slot: 15
         amount: 64
 
@@ -520,8 +672,8 @@ categories:
         material: "PUMPKIN_SEEDS"
         name: "&6Pumpkin Seeds"
         lore: []
-        buy-price: 50.0
-        sell-price: 0.1
+        buy-price: 12.0
+        sell-price: 1.0
         slot: 16
         amount: 16
 
@@ -530,8 +682,8 @@ categories:
         material: "PUMPKIN"
         name: "&6Pumpkin"
         lore: []
-        buy-price: 80.0
-        sell-price: 0.5
+        buy-price: 20.0
+        sell-price: 3.0
         slot: 19
         amount: 16
 
@@ -540,8 +692,8 @@ categories:
         material: "MELON_SEEDS"
         name: "&cMelon Seeds"
         lore: []
-        buy-price: 50.0
-        sell-price: 0.1
+        buy-price: 12.0
+        sell-price: 1.0
         slot: 20
         amount: 16
 
@@ -550,8 +702,8 @@ categories:
         material: "MELON_SLICE"
         name: "&cMelon Slice"
         lore: []
-        buy-price: 30.0
-        sell-price: 0.1
+        buy-price: 8.0
+        sell-price: 1.0
         slot: 21
         amount: 64
 
@@ -560,8 +712,8 @@ categories:
         material: "SUGAR_CANE"
         name: "&aSugar Cane"
         lore: []
-        buy-price: 40.0
-        sell-price: 0.1
+        buy-price: 10.0
+        sell-price: 1.5
         slot: 22
         amount: 64
 
@@ -570,8 +722,8 @@ categories:
         material: "BAMBOO"
         name: "&aBamboo"
         lore: []
-        buy-price: 35.0
-        sell-price: 0.08
+        buy-price: 8.0
+        sell-price: 1.0
         slot: 23
         amount: 64
 
@@ -580,8 +732,8 @@ categories:
         material: "CACTUS"
         name: "&2Cactus"
         lore: []
-        buy-price: 40.0
-        sell-price: 0.1
+        buy-price: 10.0
+        sell-price: 1.5
         slot: 24
         amount: 64
 
@@ -590,8 +742,8 @@ categories:
         material: "SWEET_BERRIES"
         name: "&cSweet Berries"
         lore: []
-        buy-price: 30.0
-        sell-price: 0.1
+        buy-price: 8.0
+        sell-price: 1.2
         slot: 25
         amount: 64
 
@@ -600,8 +752,8 @@ categories:
         material: "GLOW_BERRIES"
         name: "&eGlow Berries"
         lore: []
-        buy-price: 60.0
-        sell-price: 0.2
+        buy-price: 15.0
+        sell-price: 2.0
         slot: 28
         amount: 64
 
@@ -610,8 +762,8 @@ categories:
         material: "BONE_MEAL"
         name: "&fBone Meal"
         lore: []
-        buy-price: 50.0
-        sell-price: 0.3
+        buy-price: 12.0
+        sell-price: 2.0
         slot: 29
         amount: 64
 
@@ -620,8 +772,8 @@ categories:
         material: "BREAD"
         name: "&eBread"
         lore: []
-        buy-price: 40.0
-        sell-price: 0.5
+        buy-price: 10.0
+        sell-price: 2.0
         slot: 30
         amount: 16
 
@@ -630,8 +782,8 @@ categories:
         material: "COOKED_BEEF"
         name: "&fSteak"
         lore: []
-        buy-price: 60.0
-        sell-price: 1.0
+        buy-price: 15.0
+        sell-price: 3.0
         slot: 31
         amount: 16
 
@@ -640,8 +792,8 @@ categories:
         material: "COOKED_PORKCHOP"
         name: "&fCooked Porkchop"
         lore: []
-        buy-price: 60.0
-        sell-price: 1.0
+        buy-price: 15.0
+        sell-price: 3.0
         slot: 32
         amount: 16
 
@@ -650,8 +802,8 @@ categories:
         material: "COOKED_CHICKEN"
         name: "&fCooked Chicken"
         lore: []
-        buy-price: 50.0
-        sell-price: 0.8
+        buy-price: 12.0
+        sell-price: 2.5
         slot: 33
         amount: 16
 
@@ -660,8 +812,8 @@ categories:
         material: "BAKED_POTATO"
         name: "&6Baked Potato"
         lore: []
-        buy-price: 40.0
-        sell-price: 0.5
+        buy-price: 10.0
+        sell-price: 2.0
         slot: 34
         amount: 16
 
@@ -670,8 +822,8 @@ categories:
         material: "APPLE"
         name: "&cApple"
         lore: []
-        buy-price: 30.0
-        sell-price: 0.3
+        buy-price: 8.0
+        sell-price: 1.5
         slot: 37
         amount: 16
 
@@ -680,8 +832,8 @@ categories:
         material: "OAK_SAPLING"
         name: "&2Oak Sapling"
         lore: []
-        buy-price: 30.0
-        sell-price: 0.1
+        buy-price: 8.0
+        sell-price: 1.0
         slot: 38
         amount: 16
 
@@ -690,8 +842,8 @@ categories:
         material: "BROWN_MUSHROOM"
         name: "&6Brown Mushroom"
         lore: []
-        buy-price: 25.0
-        sell-price: 0.15
+        buy-price: 6.0
+        sell-price: 1.0
         slot: 39
         amount: 16
 
@@ -700,10 +852,60 @@ categories:
         material: "RED_MUSHROOM"
         name: "&cRed Mushroom"
         lore: []
-        buy-price: 25.0
-        sell-price: 0.15
+        buy-price: 6.0
+        sell-price: 1.0
         slot: 40
         amount: 16
+
+      golden_apple:
+        type: "NORMAL"
+        material: "GOLDEN_APPLE"
+        name: "&6Golden Apple"
+        lore: []
+        buy-price: 500.0
+        sell-price: 40.0
+        slot: 41
+        amount: 1
+
+      golden_carrot:
+        type: "NORMAL"
+        material: "GOLDEN_CARROT"
+        name: "&6Golden Carrot"
+        lore: []
+        buy-price: 100.0
+        sell-price: 8.0
+        slot: 43
+        amount: 16
+
+      hay_block:
+        type: "NORMAL"
+        material: "HAY_BLOCK"
+        name: "&eHay Block"
+        lore: []
+        buy-price: 35.0
+        sell-price: 3.0
+        slot: 44
+        amount: 64
+
+      dried_kelp_block:
+        type: "NORMAL"
+        material: "DRIED_KELP_BLOCK"
+        lore: []
+        name: "&2Dried Kelp Block"
+        buy-price: 40.0
+        sell-price: 3.0
+        slot: 45
+        amount: 64
+
+      kelp:
+        type: "NORMAL"
+        material: "KELP"
+        name: "&2Kelp"
+        lore: []
+        buy-price: 10.0
+        sell-price: 1.0
+        slot: 46
+        amount: 64
 
   mob_drops:
     name: "&c&lMob Drops"
@@ -715,8 +917,8 @@ categories:
         material: "BONE"
         name: "&fBone"
         lore: []
-        buy-price: 80.0
-        sell-price: 0.5
+        buy-price: 20.0
+        sell-price: 2.5
         slot: 10
         amount: 16
 
@@ -725,8 +927,8 @@ categories:
         material: "STRING"
         name: "&fString"
         lore: []
-        buy-price: 100.0
-        sell-price: 0.8
+        buy-price: 25.0
+        sell-price: 3.0
         slot: 11
         amount: 16
 
@@ -735,8 +937,8 @@ categories:
         material: "GUNPOWDER"
         name: "&fGunpowder"
         lore: []
-        buy-price: 150.0
-        sell-price: 1.2
+        buy-price: 40.0
+        sell-price: 5.0
         slot: 12
         amount: 16
 
@@ -745,8 +947,8 @@ categories:
         material: "ENDER_PEARL"
         name: "&dEnder Pearl"
         lore: []
-        buy-price: 800.0
-        sell-price: 6.0
+        buy-price: 200.0
+        sell-price: 25.0
         slot: 13
         amount: 8
 
@@ -755,8 +957,8 @@ categories:
         material: "SLIME_BALL"
         name: "&aSlime Ball"
         lore: []
-        buy-price: 200.0
-        sell-price: 1.5
+        buy-price: 50.0
+        sell-price: 6.0
         slot: 14
         amount: 16
 
@@ -765,8 +967,8 @@ categories:
         material: "BLAZE_ROD"
         name: "&6Blaze Rod"
         lore: []
-        buy-price: 500.0
-        sell-price: 4.0
+        buy-price: 120.0
+        sell-price: 15.0
         slot: 15
         amount: 8
 
@@ -775,8 +977,8 @@ categories:
         material: "GHAST_TEAR"
         name: "&fGhast Tear"
         lore: []
-        buy-price: 600.0
-        sell-price: 5.0
+        buy-price: 150.0
+        sell-price: 18.0
         slot: 16
         amount: 8
 
@@ -785,8 +987,8 @@ categories:
         material: "SPIDER_EYE"
         name: "&fSpider Eye"
         lore: []
-        buy-price: 50.0
-        sell-price: 0.4
+        buy-price: 12.0
+        sell-price: 1.5
         slot: 19
         amount: 16
 
@@ -795,8 +997,8 @@ categories:
         material: "ROTTEN_FLESH"
         name: "&fRotten Flesh"
         lore: []
-        buy-price: 30.0
-        sell-price: 0.1
+        buy-price: 8.0
+        sell-price: 1.0
         slot: 20
         amount: 16
 
@@ -805,8 +1007,8 @@ categories:
         material: "LEATHER"
         name: "&fLeather"
         lore: []
-        buy-price: 120.0
-        sell-price: 0.8
+        buy-price: 30.0
+        sell-price: 4.0
         slot: 21
         amount: 16
 
@@ -815,8 +1017,8 @@ categories:
         material: "PHANTOM_MEMBRANE"
         name: "&bPhantom Membrane"
         lore: []
-        buy-price: 400.0
-        sell-price: 3.0
+        buy-price: 100.0
+        sell-price: 12.0
         slot: 22
         amount: 8
 
@@ -825,8 +1027,8 @@ categories:
         material: "PRISMARINE_SHARD"
         name: "&bPrismarine Shard"
         lore: []
-        buy-price: 300.0
-        sell-price: 2.5
+        buy-price: 75.0
+        sell-price: 9.0
         slot: 23
         amount: 16
 
@@ -835,8 +1037,8 @@ categories:
         material: "FEATHER"
         name: "&fFeather"
         lore: []
-        buy-price: 40.0
-        sell-price: 0.3
+        buy-price: 10.0
+        sell-price: 1.5
         slot: 24
         amount: 16
 
@@ -845,8 +1047,8 @@ categories:
         material: "INK_SAC"
         name: "&8Ink Sac"
         lore: []
-        buy-price: 80.0
-        sell-price: 0.6
+        buy-price: 20.0
+        sell-price: 2.5
         slot: 25
         amount: 16
 
@@ -855,8 +1057,8 @@ categories:
         material: "RABBIT_HIDE"
         name: "&fRabbit Hide"
         lore: []
-        buy-price: 60.0
-        sell-price: 0.5
+        buy-price: 15.0
+        sell-price: 2.0
         slot: 28
         amount: 16
 
@@ -865,8 +1067,8 @@ categories:
         material: "RABBIT_FOOT"
         name: "&fRabbit's Foot"
         lore: []
-        buy-price: 250.0
-        sell-price: 2.0
+        buy-price: 60.0
+        sell-price: 8.0
         slot: 29
         amount: 8
 
@@ -875,8 +1077,8 @@ categories:
         material: "TURTLE_SCUTE"
         name: "&aScute"
         lore: []
-        buy-price: 200.0
-        sell-price: 1.5
+        buy-price: 50.0
+        sell-price: 6.0
         slot: 30
         amount: 8
 
@@ -885,8 +1087,8 @@ categories:
         material: "NAUTILUS_SHELL"
         name: "&bNautilus Shell"
         lore: []
-        buy-price: 500.0
-        sell-price: 4.0
+        buy-price: 125.0
+        sell-price: 15.0
         slot: 31
         amount: 8
 
@@ -895,8 +1097,8 @@ categories:
         material: "PRISMARINE_CRYSTALS"
         name: "&bPrismarine Crystals"
         lore: []
-        buy-price: 350.0
-        sell-price: 2.8
+        buy-price: 85.0
+        sell-price: 10.0
         slot: 32
         amount: 16
 
@@ -905,8 +1107,8 @@ categories:
         material: "MAGMA_CREAM"
         name: "&6Magma Cream"
         lore: []
-        buy-price: 250.0
-        sell-price: 2.0
+        buy-price: 60.0
+        sell-price: 8.0
         slot: 33
         amount: 16
 
@@ -915,8 +1117,8 @@ categories:
         material: "NETHER_WART"
         name: "&4Nether Wart"
         lore: []
-        buy-price: 150.0
-        sell-price: 1.2
+        buy-price: 40.0
+        sell-price: 5.0
         slot: 34
         amount: 16
 
@@ -925,8 +1127,8 @@ categories:
         material: "SHULKER_SHELL"
         name: "&dShulker Shell"
         lore: []
-        buy-price: 1000.0
-        sell-price: 8.0
+        buy-price: 250.0
+        sell-price: 30.0
         slot: 37
         amount: 1
 
@@ -935,8 +1137,8 @@ categories:
         material: "DRAGON_BREATH"
         name: "&dDragon's Breath"
         lore: []
-        buy-price: 2000.0
-        sell-price: 15.0
+        buy-price: 500.0
+        sell-price: 60.0
         slot: 38
         amount: 1
 
@@ -945,10 +1147,30 @@ categories:
         material: "DISC_FRAGMENT_5"
         name: "&bDisc Fragment"
         lore: []
-        buy-price: 3000.0
-        sell-price: 25.0
+        buy-price: 1500.0
+        sell-price: 120.0
         slot: 39
         amount: 1
+
+      breeze_rod:
+        type: "NORMAL"
+        material: "BREEZE_ROD"
+        name: "&bBreeze Rod"
+        lore: []
+        buy-price: 800.0
+        sell-price: 65.0
+        slot: 40
+        amount: 8
+
+      wind_charge:
+        type: "NORMAL"
+        material: "WIND_CHARGE"
+        name: "&bWind Charge"
+        lore: []
+        buy-price: 150.0
+        sell-price: 12.0
+        slot: 41
+        amount: 16
 
   misc:
     name: "&d&lMisc"
@@ -1230,10 +1452,61 @@ categories:
         material: "RESPAWN_ANCHOR"
         name: "&5Respawn Anchor"
         lore: []
-        buy-price: 10000.0
-        sell-price: 1000.0
+        buy-price: 5000.0
+        sell-price: 400.0
         slot: 43
         amount: 1
+
+      firework_rocket:
+        type: "NORMAL"
+        material: "FIREWORK_ROCKET"
+        name: "&cFirework Rocket"
+        lore:
+          - "&7Flight duration: 1"
+        buy-price: 50.0
+        sell-price: 4.0
+        slot: 44
+        amount: 16
+
+      firework_star:
+        type: "NORMAL"
+        material: "FIREWORK_STAR"
+        name: "&cFirework Star"
+        lore: []
+        buy-price: 30.0
+        sell-price: 2.5
+        slot: 45
+        amount: 16
+
+      paper:
+        type: "NORMAL"
+        material: "PAPER"
+        name: "&fPaper"
+        lore: []
+        buy-price: 10.0
+        sell-price: 1.0
+        slot: 46
+        amount: 64
+
+      book:
+        type: "NORMAL"
+        material: "BOOK"
+        name: "&6Book"
+        lore: []
+        buy-price: 30.0
+        sell-price: 2.5
+        slot: 47
+        amount: 16
+
+      bookshelf:
+        type: "NORMAL"
+        material: "BOOKSHELF"
+        name: "&6Bookshelf"
+        lore: []
+        buy-price: 150.0
+        sell-price: 12.0
+        slot: 48
+        amount: 16
 
   spawners:
     name: "&d&lSpawners"
@@ -1246,7 +1519,7 @@ categories:
         axspawner-id: "rabbit"
         name: ""
         lore: []
-        buy-price: 50000.0
+        buy-price: 20000.0
         sell-price: -1
         slot: 10
         amount: 1
@@ -1257,7 +1530,7 @@ categories:
         axspawner-id: "cod"
         name: ""
         lore: []
-        buy-price: 100000.0
+        buy-price: 35000.0
         sell-price: -1
         slot: 11
         amount: 1
@@ -1268,7 +1541,7 @@ categories:
         axspawner-id: "salmon"
         name: ""
         lore: []
-        buy-price: 100000.0
+        buy-price: 35000.0
         sell-price: -1
         slot: 12
         amount: 1
@@ -1279,7 +1552,7 @@ categories:
         axspawner-id: "pufferfish"
         name: ""
         lore: []
-        buy-price: 100000.0
+        buy-price: 35000.0
         sell-price: -1
         slot: 13
         amount: 1
@@ -1290,7 +1563,7 @@ categories:
         axspawner-id: "chicken"
         name: ""
         lore: []
-        buy-price: 125000.0
+        buy-price: 45000.0
         sell-price: -1
         slot: 14
         amount: 1
@@ -1301,7 +1574,7 @@ categories:
         axspawner-id: "cow"
         name: ""
         lore: []
-        buy-price: 125000.0
+        buy-price: 45000.0
         sell-price: -1
         slot: 15
         amount: 1
@@ -1312,7 +1585,7 @@ categories:
         axspawner-id: "pig"
         name: ""
         lore: []
-        buy-price: 125000.0
+        buy-price: 45000.0
         sell-price: -1
         slot: 16
         amount: 1
@@ -1323,7 +1596,7 @@ categories:
         axspawner-id: "sheep"
         name: ""
         lore: []
-        buy-price: 125000.0
+        buy-price: 45000.0
         sell-price: -1
         slot: 19
         amount: 1
@@ -1334,7 +1607,7 @@ categories:
         axspawner-id: "tropical_fish"
         name: ""
         lore: []
-        buy-price: 125000.0
+        buy-price: 45000.0
         sell-price: -1
         slot: 20
         amount: 1
@@ -1345,7 +1618,7 @@ categories:
         axspawner-id: "mooshroom"
         name: ""
         lore: []
-        buy-price: 175000.0
+        buy-price: 60000.0
         sell-price: -1
         slot: 21
         amount: 1
@@ -1356,7 +1629,7 @@ categories:
         axspawner-id: "husk"
         name: ""
         lore: []
-        buy-price: 200000.0
+        buy-price: 70000.0
         sell-price: -1
         slot: 22
         amount: 1
@@ -1367,7 +1640,7 @@ categories:
         axspawner-id: "zombie"
         name: ""
         lore: []
-        buy-price: 250000.0
+        buy-price: 85000.0
         sell-price: -1
         slot: 23
         amount: 1
@@ -1378,7 +1651,7 @@ categories:
         axspawner-id: "cave_spider"
         name: ""
         lore: []
-        buy-price: 250000.0
+        buy-price: 85000.0
         sell-price: -1
         slot: 24
         amount: 1
@@ -1389,7 +1662,7 @@ categories:
         axspawner-id: "spider"
         name: ""
         lore: []
-        buy-price: 250000.0
+        buy-price: 85000.0
         sell-price: -1
         slot: 25
         amount: 1
@@ -1400,7 +1673,7 @@ categories:
         axspawner-id: "skeleton"
         name: ""
         lore: []
-        buy-price: 300000.0
+        buy-price: 100000.0
         sell-price: -1
         slot: 28
         amount: 1
@@ -1411,7 +1684,7 @@ categories:
         axspawner-id: "drowned"
         name: ""
         lore: []
-        buy-price: 400000.0
+        buy-price: 130000.0
         sell-price: -1
         slot: 29
         amount: 1
@@ -1422,7 +1695,7 @@ categories:
         axspawner-id: "slime"
         name: ""
         lore: []
-        buy-price: 450000.0
+        buy-price: 150000.0
         sell-price: -1
         slot: 30
         amount: 1
@@ -1433,7 +1706,7 @@ categories:
         axspawner-id: "creeper"
         name: ""
         lore: []
-        buy-price: 450000.0
+        buy-price: 150000.0
         sell-price: -1
         slot: 31
         amount: 1
@@ -1444,7 +1717,7 @@ categories:
         axspawner-id: "blaze"
         name: ""
         lore: []
-        buy-price: 600000.0
+        buy-price: 200000.0
         sell-price: -1
         slot: 32
         amount: 1
@@ -1455,7 +1728,7 @@ categories:
         axspawner-id: "enderman"
         name: ""
         lore: []
-        buy-price: 800000.0
+        buy-price: 250000.0
         sell-price: -1
         slot: 33
         amount: 1
@@ -1466,7 +1739,7 @@ categories:
         axspawner-id: "phantom"
         name: ""
         lore: []
-        buy-price: 1000000.0
+        buy-price: 300000.0
         sell-price: -1
         slot: 34
         amount: 1
